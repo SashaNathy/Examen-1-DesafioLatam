@@ -4,9 +4,9 @@
 
 - Mi cv: 
   
-  * Link: [Pagina web]()
+  * Link: [Pagina web](https://matistr.github.io/Examen-1-DesafioLatam/index.html)
   * Image:
-  <img src="./assets/images/mi-cv.jpeg"/>
+  <img src="./assets/images/pages.jpeg"/>
 
 - Forks:
 
