@@ -213,3 +213,9 @@ button:hover {
     cursor: pointer;
     box-shadow: 0 4px 10px white;
 }
+
+.subt {
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
